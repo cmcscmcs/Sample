@@ -1,5 +1,3 @@
 "# Sample" 
-# Sample
-abcde
-####
-###
+README　最初に読むファイルです
+#コメントです
